@@ -1,4 +1,4 @@
-# 𝙎𝙩𝙖𝙧𝙗𝙞𝙚
+
 # Ｓｔａｒｂｉｅ
 Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
@@ -20,3 +20,5 @@ The PCB design, and an Arduino starter firmware are included here. The default p
 - `Renders/` — Front and back PCB renders
 - `Week 1 Guide.md` — Week 1 project guide
 - `Firmware/` — Arduino IDE firmware and starter sketch
+
+<img width="789" height="581" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/fed2e23a-cf4e-468b-af8f-713b00508863" />
