@@ -8,4 +8,14 @@ Starbie is designed to sit on the desk, show its personality on a small display.
 The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components.
 
 # 𝓦𝓱𝔂?
+This project was created for fallen.
 
+# Project status
+The PCB design, and an Arduino starter firmware are included here. The default program is a two-eye pet with a tilt-controlled radial menu, hidden stats, and a shake reaction.
+
+### Repository contents
+
+- `PCB/` — KiCad source files and PCB fabrication exports
+- `Renders/` — Front and back PCB renders
+- `Week 1 Guide.md` — Week 1 project guide
+- `Firmware/` — Arduino IDE firmware and starter sketch
